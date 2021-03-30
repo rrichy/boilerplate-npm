@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "The first backend challenge from freeCodeCamp. This will help in understanding the usage of NPM and how to use it.",
 	"author": "rrichy",
 	"dependencies": {
 		"express": "^4.14.0"
